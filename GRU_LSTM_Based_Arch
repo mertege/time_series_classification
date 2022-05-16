@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T15:47:30.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="cG3KrgjYEV4XNnBJl_5s" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T10:25:32.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="6hfvKdaZcHczjzF_L1bi" version="18.0.4" type="github">
   <diagram id="LBZtC7lwvjLxRza6hpAt" name="Page-1">
-    <mxGraphModel dx="2093" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
             <mxPoint x="2207.6" y="389.18000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-24" value="Dense Layer" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-24" value="Dense Layer" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66B2FF;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="2087.6" y="349.18000000000006" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OVcvISZB_nmuNlxo3RzD-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -32,7 +32,7 @@
             <mxPoint x="2049.0000000000005" y="389.2499999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-37" value="Classifiaction Result" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-37" value="Classifiaction Result" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;strokeColor=default;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2500" y="349.18000000000006" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OVcvISZB_nmuNlxo3RzD-38" value="Decoder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontStyle=1;rotation=0;direction=east;fontSize=23;" parent="1" vertex="1">
@@ -49,7 +49,7 @@
             <mxPoint x="1017.5999999999999" y="609.1800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-49" value="Average Pooling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-49" value="Average Pooling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6d8764;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="897.6" y="569.1800000000001" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OVcvISZB_nmuNlxo3RzD-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -67,7 +67,7 @@
         <mxCell id="OVcvISZB_nmuNlxo3RzD-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OVcvISZB_nmuNlxo3RzD-55" target="OVcvISZB_nmuNlxo3RzD-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-55" value="Bidirectional LSTM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-55" value="Bidirectional LSTM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="779.0000000000001" y="569.1800000000001" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OVcvISZB_nmuNlxo3RzD-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -82,16 +82,16 @@
             <mxPoint x="1498.6" y="609.1800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-66" value="Bidirectional LSTM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-66" value="Bidirectional LSTM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1020.0000000000001" y="570.0000000000001" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-67" value="Average Pooling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-67" value="Average Pooling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6d8764;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1139.25" y="569.1800000000001" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-68" value="Bidirectional LSTM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-68" value="Bidirectional LSTM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1259.6" y="570.0000000000001" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-71" value="Attention" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-71" value="Attention" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=default;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1380" y="569.1800000000001" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OVcvISZB_nmuNlxo3RzD-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="OVcvISZB_nmuNlxo3RzD-72" target="OVcvISZB_nmuNlxo3RzD-90" edge="1">
@@ -99,7 +99,7 @@
             <mxPoint x="1800" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-72" value="Global Average Pooling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-72" value="Global Average Pooling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CCCC;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1500" y="569.1800000000001" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OVcvISZB_nmuNlxo3RzD-73" value="&lt;b&gt;Input Spectrogram&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;rotation=0;fontSize=25;" parent="1" vertex="1">
@@ -116,7 +116,7 @@
             <mxPoint x="1021.5999999999999" y="199.18000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-77" value="Average Pooling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-77" value="Average Pooling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6D8764;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="901.6" y="159.18000000000006" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OVcvISZB_nmuNlxo3RzD-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -134,7 +134,7 @@
         <mxCell id="OVcvISZB_nmuNlxo3RzD-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OVcvISZB_nmuNlxo3RzD-81" target="OVcvISZB_nmuNlxo3RzD-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-81" value="Bidirectional LSTM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-81" value="Bidirectional LSTM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=#000000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="783.0000000000001" y="159.18000000000006" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OVcvISZB_nmuNlxo3RzD-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -155,19 +155,19 @@
             <mxPoint x="1621.6000000000004" y="199.1428571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-85" value="Bidirectional LSTM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-85" value="Bidirectional LSTM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1024" y="160.0000000000001" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-86" value="Average Pooling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-86" value="Average Pooling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6d8764;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1143.25" y="159.18000000000006" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-87" value="Bidirectional LSTM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-87" value="Bidirectional LSTM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1263.6" y="160.0000000000001" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-88" value="Attention" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-88" value="Attention" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=default;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1384" y="159.18000000000006" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-89" value="Global Average Pooling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-89" value="Global Average Pooling" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CCCC;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1504" y="159.18000000000006" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OVcvISZB_nmuNlxo3RzD-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OVcvISZB_nmuNlxo3RzD-90" edge="1">
@@ -175,16 +175,16 @@
             <mxPoint x="1969.0000000000005" y="389.18000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-90" value="Concatenation" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-90" value="Concatenation" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1760" y="350.00000000000006" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-97" value="Batch Normalization" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-97" value="Batch Normalization" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#009900;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1969" y="349.18000000000006" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-99" value="Dropout" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-99" value="Dropout" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7F00FF;strokeColor=default;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2210" y="349.18000000000006" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVcvISZB_nmuNlxo3RzD-100" value="Softmax" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OVcvISZB_nmuNlxo3RzD-100" value="Softmax" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;strokeColor=default;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="2329.5" y="349.18000000000006" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OVcvISZB_nmuNlxo3RzD-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OVcvISZB_nmuNlxo3RzD-101" target="OVcvISZB_nmuNlxo3RzD-81" edge="1">
